@@ -65,3 +65,37 @@ cat /etc/passwd
 userdel -r samsung
 cat /etc/passwd
 exit
+clear
+pwd
+ls
+sudo git clone
+clear
+git clone
+ls
+git clone
+clear
+echo "# rajashekar51" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rajashekar51/rajashekar51.git
+git push -u origin main
+ls
+touch raj1
+ls
+vi raj1 
+git status
+git add *
+git status
+git add .
+git status
+git commit -m "second commit"
+git push origin main
+git pull 
+vi raj1 
+git add raj1
+git commit -m "fifth commit"
+git push origin main 
+git push origin main
+git pull
